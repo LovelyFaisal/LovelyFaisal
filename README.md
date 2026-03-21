@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Microservices, Cloud native**
 
-- 👨‍💻 All of my projects are available at [faisal9.com](faisal9.com)
+- 👨‍💻 All of my projects are available at [faisals.dev](faisals.dev)
 
 - 💬 Ask me about **Web Technologies**
 
